@@ -1,0 +1,5 @@
+1. [Анализ данных стримингового сервиса Netflix](https://public.tableau.com/app/profile/avtukhovich.nadya/viz/Book1_17419984287750/Netflix)
+   [](https://github.com/Nadya1004avt/Dashboard_Tableau/blob/main/netflix/Netflix.png)
+2. [Анализ данных продаж](https://public.tableau.com/app/profile/avtukhovich.nadya/viz/SalesCustomerDashboardsDynamic_17440249999540/CustomerDashboard)
+   [](https://github.com/Nadya1004avt/Dashboard_Tableau/blob/main/Sales/1.png)
+   [](https://github.com/Nadya1004avt/Dashboard_Tableau/blob/main/Sales/2.png)
